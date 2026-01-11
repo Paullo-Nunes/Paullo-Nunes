@@ -1,7 +1,7 @@
 ## Olá! 👋
-Sou programador front-end e busco me aperfeiçoar com projetos desenvolvido através das tecnologias mais utilizadas na web. E também estou estudando mais sobre o back-end para assim me tornar um programador completo.
+Sou programador front-end e busco me aperfeiçoar com projetos desenvolvido através das tecnologias mais utilizadas na web. E também estou estudando tecnologias do back-end para assim me tornar um programador completo.
 
-### Tecnologias Utilizadas
+### Tecnologias
 
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/css3.png)
