@@ -7,7 +7,8 @@ Sou programador front-end e busco me aperfeiçoar com projetos desenvolvido atra
 ![CSS3](https://img.icons8.com/color/48/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/2e8501c6-53d0-4ab2-814d-7ac7b098bbfc" />
-![React](https://www.readmecodegen.com/api/social-icon?name=React)
+![React](https://www.readmecodegen.com/api/social-icon?name=React) 
+![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb)
 
 
 
