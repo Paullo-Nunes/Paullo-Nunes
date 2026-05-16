@@ -9,6 +9,10 @@ Sou programador front-end e venho cada vez mais me aperfeiçoando através de pr
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/2e8501c6-53d0-4ab2-814d-7ac7b098bbfc" />
 ![React](https://www.readmecodegen.com/api/social-icon?name=React) 
 ![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb)
+<img width="48" height="48" alt="icons8-prisma-orm-48" src="https://github.com/user-attachments/assets/b8f69745-dc7d-45bb-9d09-1b86bba0da30" />
+
+
+          
 
 
 
