@@ -1,5 +1,5 @@
 ## Olá! 👋
-Sou programador front-end e venho cada vez mais me aperfeiçoando através de projetos desenvolvido com as seguintes tecnologias: <br>👇👇👇
+Sou programador front-end e venho cada vez mais me aperfeiçoando através de projetos desenvolvidos com as seguintes tecnologias: <br>👇👇👇
 
 ### Tecnologias
 
