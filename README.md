@@ -1,4 +1,4 @@
-# Olá! Eu sou o Paulo Nunes 👋
+# Olá! Eu sou o Paullo Nunes 👋
 
 🚀 **Desenvolvedor Software em Formação** | Foco em Full Stack & Engenharia de Software
 
