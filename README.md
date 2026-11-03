@@ -2,7 +2,7 @@
 
 🚀 **Desenvolvedor Software em Formação** | Foco em Full Stack & Engenharia de Software
 
-Sou fascinado por tecnologia e desenvolvimento web. Atualmente, estou expandindo e consolidando minhas habilidades no ecossistema **JavaScript / TypeScript**, construindo aplicações modernas, dinâmicas e focadas na melhor experiência do usuário e performance de servidores.
+Atualmente, estou expandindo e consolidando minhas habilidades no ecossistema **JavaScript / TypeScript**, construindo aplicações modernas, dinâmicas e focadas na melhor experiência do usuário e performance de servidores.
 
 ---
 
