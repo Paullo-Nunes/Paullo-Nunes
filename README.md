@@ -1,6 +1,6 @@
 # Olá! Eu sou o Paullo Nunes 👋
 
-🚀 **Desenvolvedor Fullstack em Formação**
+🚀 **Desenvolvedor Fullstack**
 
 Atualmente, estou expandindo e consolidando minhas habilidades no ecossistema **JavaScript / TypeScript**, construindo aplicações modernas, dinâmicas e focadas na melhor experiência do usuário e performance de servidores.
 
